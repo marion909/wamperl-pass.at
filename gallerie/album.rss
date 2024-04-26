@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Wamperl-Pass</title>
+   	<link>.</link>
+        <generator>jAlbum 29.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.wamperl-pass.at/gallerie/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Maskenbasteln%20und%20Adventmarkt%20Enns%202022/album.rss" title="Maskenbasteln und Adventmarkt Enns 2022" thumbnail="http://www.wamperl-pass.at/gallerie/Maskenbasteln%20und%20Adventmarkt%20Enns%202022/thumbs/WhatsApp%20Image%202022-12-03%20at%2020.21.21.jpeg" thumbnailWidth="90" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Photoshooting2022/album.rss" title="Photoshooting2022" thumbnail="http://www.wamperl-pass.at/gallerie/Photoshooting2022/thumbs/IMG_0039.jpg" thumbnailWidth="160" thumbnailHeight="107" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Adventmarkt_Czepl_Ernsthofen_2016/album.rss" title="Adventmarkt_Czepl_Ernsthofen_2016" thumbnail="http://www.wamperl-pass.at/gallerie/Adventmarkt_Czepl_Ernsthofen_2016/thumbs/K1024_IMG_9374.JPG" thumbnailWidth="160" thumbnailHeight="107" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Photoshooting2018/album.rss" title="Photoshooting2018" thumbnail="http://www.wamperl-pass.at/gallerie/Photoshooting2018/thumbs/IMG_0020.JPG" thumbnailWidth="90" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Perchtenlauf_Enns_2018/album.rss" title="Perchtenlauf_Enns_2018" thumbnail="http://www.wamperl-pass.at/gallerie/Perchtenlauf_Enns_2018/thumbs/IMG-20181125-WA0014.jpg" thumbnailWidth="160" thumbnailHeight="107" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Traktor_Pulling2018/album.rss" title="Traktor_Pulling2018" thumbnail="http://www.wamperl-pass.at/gallerie/Traktor_Pulling2018/thumbs/8AD_3412_b.jpeg" thumbnailWidth="120" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Adventmarkt_Enns_2017/album.rss" title="Adventmarkt_Enns_2017" thumbnail="http://www.wamperl-pass.at/gallerie/Adventmarkt_Enns_2017/thumbs/1.JPG" thumbnailWidth="90" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Adventmarkt_Ernsthofen_2016/album.rss" title="Adventmarkt_Ernsthofen_2016" thumbnail="http://www.wamperl-pass.at/gallerie/Adventmarkt_Ernsthofen_2016/thumbs/K1024_DSCF4678.JPG" thumbnailWidth="160" thumbnailHeight="107" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Adventmarkt_Thaling_2017/album.rss" title="Adventmarkt_Thaling_2017" thumbnail="http://www.wamperl-pass.at/gallerie/Adventmarkt_Thaling_2017/thumbs/K1024_IMG-20171203-WA0021.JPG" thumbnailWidth="90" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="http://www.wamperl-pass.at/gallerie/Lauf_Ennsdorf_2017/album.rss" title="Lauf_Ennsdorf_2017" thumbnail="http://www.wamperl-pass.at/gallerie/Lauf_Ennsdorf_2017/thumbs/24955827_1517706591650031_3058329812659047103_o.JPG" thumbnailWidth="90" thumbnailHeight="120" />
+    </channel>
+</rss>
